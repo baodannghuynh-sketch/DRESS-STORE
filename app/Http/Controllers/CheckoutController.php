@@ -96,4 +96,7 @@ foreach ($cart as $productId => $item) {
     return redirect('/')->with('success', 'Đặt hàng thành công!');
 }
 }
+<<<<<<< HEAD
 //app/Http/Controllers/CheckoutController.php
+=======
+>>>>>>> 7ef827f9323d0c027daa86036c9cb8f1342a4fd6

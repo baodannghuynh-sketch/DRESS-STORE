@@ -33,4 +33,7 @@ class RegisterController extends Controller
         return redirect()->route('login')->with('success', 'Đăng ký thành công');
     }
 }
+<<<<<<< HEAD
 //app/Http/Controllers/Auth/RegisterController.php
+=======
+>>>>>>> 7ef827f9323d0c027daa86036c9cb8f1342a4fd6
